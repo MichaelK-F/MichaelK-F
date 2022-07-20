@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and Python.
 <!-- - 🌱 I’m currently learning -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 You can contact me via email - michael@wandoo.ca
+- 📫 You can contact me via email - michaels.awsome.website0@gmail.com
 - Here is my website: https://michaelk-f.github.io/
 
 <!---
